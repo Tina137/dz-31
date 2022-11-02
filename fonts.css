@@ -1,0 +1,10 @@
+@font-face {
+  font-family: MonAlt;
+  src: url(./MontserratAlternates-SemiBold.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: MonAlt;
+  src: url(./MontserratAlternates-Bold.otf);
+  font-weight: 700;
+}
